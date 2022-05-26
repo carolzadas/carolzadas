@@ -9,7 +9,7 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="carolzada-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="carolzada-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> 
-  <img align="right" alt="carolzada-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/963974708989161492/977046477224411157/3.png">
+  <img align="right" alt="carolzada-pic" height="95" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/963974708989161492/977046477224411157/3.png">
   </div>
 
 ##
